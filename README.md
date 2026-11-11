@@ -19,6 +19,8 @@ However, leaving permanent primary credit cards tied to dynamic, highly automate
 ### 2. The Isolated Disposable VCC Topology
 [USDT Master Treasury Pool]
                                 │
+       
+       
        ┌────────────────────────┴────────────────────────┐
        ▼                                                 ▼
        [Node A: 4x H100 Fine-Tuning]                     [Node B: Continuous Eval Pipeline]
