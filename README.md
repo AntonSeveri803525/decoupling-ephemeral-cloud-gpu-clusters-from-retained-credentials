@@ -24,7 +24,7 @@ However, leaving permanent primary credit cards tied to dynamic, highly automate
        ┌────────────────────────┴────────────────────────┐
        ▼                                                 ▼
        [Node A: 4x H100 Fine-Tuning]                     [Node B: Continuous Eval Pipeline]
-├── Card Profile: CoreGold US Commercial          ├── Card Profile: CoreGold US Commercial
+├── Card Profile: CoreGold US Commercial  ├── Card Profile: CoreGold US Commercial
 ├── Hard Limit: $60.00                            ├── Hard Limit: $30.00
 └── Strategy: Auto-terminates on limit breach     └── Strategy: Ephemeral / Disposable
 ### 3. Setup and Deployment Workflow
